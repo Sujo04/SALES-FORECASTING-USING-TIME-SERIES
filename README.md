@@ -162,6 +162,4 @@ Sujoy P T
 
 M.Sc Data Science
 
-- Machine Learning
-- Data Analytics
-- Time Series Forecasting# SALES-FORECASTING-USING-TIME-SERIES
+
